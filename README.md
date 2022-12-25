@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Gosling_lezhit](https://user-images.githubusercontent.com/118254229/209454032-763d4dbd-0149-4a55-8027-e5ac4b77ff23.gif)
+
 <!--
 **MikhailSarancha/MikhailSarancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
